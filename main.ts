@@ -1,7 +1,7 @@
 import { App, Editor, MarkdownView, Modal, Notice, Plugin, PluginSettingTab, Setting } from 'obsidian';
 
-const CLIENT_ID = '4R2QIb5GEganaa7T3I';
-const REDIRECT_URI = 'https://ehrlemirror.github.io/obsidian-ticktick-redirect/';
+const CLIENT_ID = '';
+const REDIRECT_URI = '';
 
 
 // Remember to rename these classes and interfaces!
